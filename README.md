@@ -14,6 +14,7 @@
 
 ## Deployed
 
+[Deployed](https://rjewell859.github.io/CIS224-Project/)
 
 ## Screenshot
 
